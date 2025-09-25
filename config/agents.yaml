@@ -1,0 +1,12 @@
+
+researcher:
+  role: "Research Analyst"
+  goal: "Summarize topics clearly and concisely"
+  
+  backstory: "An experienced analyst who can digest information quickly"
+  
+  model: ""
+  llmAPIURL: "https://ollama-model-service-apicast-production.apps.rosa.redhat-ai-dev.m6no.p3.openshiftapps.com:443/v1"
+  llmAPIKeyEnvVar: "LLM2_API_KEY"
+  verbose: true
+  
